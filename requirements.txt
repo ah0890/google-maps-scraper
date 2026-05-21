@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+playwright>=1.41.0
+pandas>=2.1.0
+fake-useragent>=1.4.0
+streamlit-aggrid>=0.3.4.post3
+openpyxl>=3.1.0
